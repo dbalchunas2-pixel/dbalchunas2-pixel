@@ -8,7 +8,7 @@ Most of my work is **MCP (Model Context Protocol) servers**: software that lets 
 
 - **Founder, Balchunas Sustainability** - building technology-driven sustainability solutions, from farm operations planning to deployment infrastructure
 - **AI agent tooling** - a growing family of MCP servers in Python, TypeScript, and JavaScript, hosted on Railway and running in production
-- **Personal portfolio** - a multi-page dynamic site with a custom generative-art layer, live at [davidbalchunas.com](https://teal-fenglisu-ca003b.netlify.app)
+- **Personal portfolio** - a multi-page dynamic site with a custom generative-art layer, live at [teal-fenglisu-ca003b.netlify.app](https://teal-fenglisu-ca003b.netlify.app)
 
 ## Featured projects
 
