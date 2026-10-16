@@ -31,7 +31,7 @@ Most of my work is **MCP (Model Context Protocol) servers**: software that lets 
 
 ## Scouting
 
-**Eagle Scout.** My service project was designing and leading construction of a confessional chapel for my parish - from concept and fundraising through build completion. I also serve as Treasurer of Woapalanne Lodge (Order of the Arrow) and hold a council-level youth office in Sea Scouts, BSA.
+**Eagle Scout.** My service project was designing and leading construction of a confessional chapel for my parish - from concept and fundraising through build completion. I also serve as Treasurer of my local Order of the Arrow lodge and hold a council-level youth office in Sea Scouts, BSA.
 
 Scouting taught me the same thing software does: finish what you start, document as you go, and leave the campsite better than you found it.
 
