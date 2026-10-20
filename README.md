@@ -6,9 +6,9 @@ These days most of my energy goes into **Rust applications**: fast, small-footpr
 
 ## What I'm working on
 
+- **[Forculus](https://github.com/dbalchunas2-pixel/forculus)** - a local-first governance layer for AI agents: policy enforcement, last-mile credential injection, content inspection, and tamper-evident audit logging between agents and every tool they touch. Written in Rust. Public source now; first release after external security review.
 - **Lectorium v2** - a local-first AI notes app, rebuilt from Electron to Rust + Tauri 2: bundled SQLite, full-text search, built-in flashcards, voice recording, on-device AI via Ollama, and a Dark Academia UI. Open-sourcing soon.
 - **The Academy** - a custom desktop client for Canvas LMS: priority dashboard, assignments, calendar, announcements, and built-in MCP tool calling in one native app. Public release in progress.
-- **Forculus** - a local-first MCP firewall and permission broker for AI agents, written in Rust.
 - **Founder, Balchunas Sustainability** - building technology-driven sustainability solutions, from farm operations planning to deployment infrastructure.
 
 ## The foundation: MCP infrastructure
