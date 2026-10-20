@@ -1,16 +1,19 @@
 # Hi, I'm David Balchunas Jr.
 
-I build tools that connect AI agents to the real world - and I found a sustainability company along the way.
+I build native desktop apps in Rust - local-first software that lives on your machine, not someone else's cloud - and I run a sustainability company along the way.
 
-Most of my work is **MCP (Model Context Protocol) servers**: software that lets AI assistants read Apple Notes, manage Railway deployments, bridge Google Drive backups, and automate Safari. I like working at the seam where AI meets actual systems - local-first, deployed, and in daily use.
+These days most of my energy goes into **Rust applications**: fast, small-footprint desktop tools built on Tauri 2 with Rust backends. Before that I spent a year deep in **MCP (Model Context Protocol) servers** - the infrastructure layer that connects AI assistants to real systems. That work didn't go away; it became the foundation everything else runs on.
 
 ## What I'm working on
 
-- **Founder, Balchunas Sustainability** - building technology-driven sustainability solutions, from farm operations planning to deployment infrastructure
-- **AI agent tooling** - a growing family of MCP servers in Python, TypeScript, and JavaScript, hosted on Railway and running in production
-- **Personal portfolio** - a multi-page dynamic site with a custom generative-art layer, live at [teal-fenglisu-ca003b.netlify.app](https://teal-fenglisu-ca003b.netlify.app)
+- **Lectorium v2** - a local-first AI notes app, rebuilt from Electron to Rust + Tauri 2: bundled SQLite, full-text search, built-in flashcards, voice recording, on-device AI via Ollama, and a Dark Academia UI. Open-sourcing soon.
+- **The Academy** - a custom desktop client for Canvas LMS: priority dashboard, assignments, calendar, announcements, and built-in MCP tool calling in one native app. Public release in progress.
+- **Forculus** - a local-first MCP firewall and permission broker for AI agents, written in Rust.
+- **Founder, Balchunas Sustainability** - building technology-driven sustainability solutions, from farm operations planning to deployment infrastructure.
 
-## Featured projects
+## The foundation: MCP infrastructure
+
+A growing family of MCP servers in Python, TypeScript, and JavaScript - hosted on Railway and running in production daily - that let AI assistants read Apple Notes, manage Railway deployments, bridge Google Drive backups, and automate Safari.
 
 | Project | What it does |
 |---|---|
@@ -20,9 +23,10 @@ Most of my work is **MCP (Model Context Protocol) servers**: software that lets 
 
 ## Tech I use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri_2-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
 ![Railway](https://img.shields.io/badge/Railway-0B0B0B?style=flat-square&logo=railway&logoColor=white)
